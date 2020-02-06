@@ -1,0 +1,30 @@
+.form-control {
+    border-radius: 25px;
+}
+.btn-primary {
+    border-radius: 25px;
+}
+.btn-secondary {
+    border-radius: 25px;
+}
+
+
+.box {
+    width:600px;
+    margin:0 auto;
+}
+.form-group {
+    vertical-align: top;
+}
+
+.contract_list {
+    vertical-align: top;
+}
+
+.row {
+    padding-top: 10px;
+}
+
+.col-sm-4 {
+     justify-content: center;
+ }
